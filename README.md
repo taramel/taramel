@@ -1,24 +1,4 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Tara%20Amelia&fontSize=50&fontColor=e94560&fontAlignY=38&desc=informatics%20management%20%C2%B7%20builder%20of%20systems%20%26%20quiet%20things&descSize=14&descAlignY=58&descColor=a8a8b3" />
-
-</div>
-
-<br/>
-
-```ts
-const tara = {
-  location : "Sambas, West Borneo, Indonesia",
-  study    : "Informatics Management — Politeknik Negeri Sambas",
-  focus    : ["web systems", "database design", "UI/UX", "network config"],
-  currently: "building a coffee farmer data management system",
-  contact  : "hyicaramel@gmail.com",
-};
-```
-
-<br/>
-
-<div align="center">
 
 ### find me
 

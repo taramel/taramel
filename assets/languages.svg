@@ -6,12 +6,12 @@
   </style>
   <rect class="bg" width="420" height="220" rx="10" />
   <text x="20" y="35" class="title">Most Used Languages</text>
-  <rect x="20" y="60" width="217.14285714285714" height="12" rx="6" fill="#f1e05a" /><rect x="237.14285714285714" y="60" width="108.57142857142857" height="12" rx="6" fill="#e34c26" /><rect x="345.7142857142857" y="60" width="54.285714285714285" height="12" rx="6" fill="#4F5D95" />
+  <rect x="20" y="60" width="253.3333333333333" height="12" rx="6" fill="#f1e05a" /><rect x="273.33333333333326" y="60" width="63.33333333333332" height="12" rx="6" fill="#e34c26" /><rect x="336.6666666666666" y="60" width="63.33333333333332" height="12" rx="6" fill="#4F5D95" />
   
     <circle cx="20" cy="100" r="5" fill="#f1e05a" />
-    <text x="34" y="104" class="label">JavaScript 57.14%</text>
+    <text x="34" y="104" class="label">JavaScript 66.67%</text>
     <circle cx="220" cy="100" r="5" fill="#e34c26" />
-    <text x="234" y="104" class="label">HTML 28.57%</text>
+    <text x="234" y="104" class="label">HTML 16.67%</text>
     <circle cx="20" cy="128" r="5" fill="#4F5D95" />
-    <text x="34" y="132" class="label">PHP 14.29%</text>
+    <text x="34" y="132" class="label">PHP 16.67%</text>
 </svg>
